@@ -3,7 +3,7 @@ Setting up
 
 1. Check to see if you have Git Bash. If not follow this link on a guide to install Git Bash for windows
       -> https://about.gitlab.com/blog/git-command-line-on-windows-with-git-bash/
-2. Restart Terminal
+      -> after downloading Git Bash restart terminal 
 4. clone your repo: Open terminal 
      -> git clone <repo-link>
 5. Navigate to repo directory: Ensures you are working  within correct directory
